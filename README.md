@@ -4,6 +4,7 @@
 <p align="center">I enjoy working on software development, currently falling in love with React.js and React Native. I'm experienced in full stack web development with MERN Stack, UI UX design with Figma, and supportive tools such as Adobes (Premiere, After Effects, Photoshop, Lightroom, and Audition). Would love to work with fun people!</p>
 
 ## 📞 Contacts
+</br>
 <a href="https://www.linkedin.com/in/michael-pg-49a050195/"><img src="https://img.shields.io/badge/-michael--pg-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
 <a href="https://instagram.com/michael_pege"><img src="https://img.shields.io/badge/-michael__pege-333333?style=flat-square&logo=instagram&logoColor=white/">
 <a href="mailto: mpg066@gmail.com"><img src="https://img.shields.io/badge/-mpg066@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
@@ -12,7 +13,7 @@
 <br/>
   
 ## 💻 Technologies & Tools
-
+</br>
 <p>
 <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-React Native-333333?style=flat-square&logo=react">
