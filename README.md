@@ -55,10 +55,12 @@
 
 ## 👓 I'm Currently Learning
 <br/>
+<p>
 <img src="https://img.shields.io/badge/-Gatsby.js-333333?style=flat-square&logo=gatsby"/>
 <img src="https://img.shields.io/badge/-Graphql-333333?style=flat-square&logo=graphql"/>
 <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat-square&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc"/>
+</p>
 <br/>
 
 ---
