@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is Michael PG!</h1>
-<h4 align="center">But you can call me PeGe. I'm a Computer Science Student, Frontend Developer, and UI/UX Designer</h4>
+<h4 align="center">But you can call me PeGe. I'm a Computer Science Student, Fullstack Developer, and UI/UX Designer</h4>
 
 <p align="center">I enjoy working on software development, currently falling in love with React.js and React Native. I'm experienced in full stack web development with MERN Stack, UI UX design with Figma, and supportive tools such as Adobes (Premiere, After Effects, Photoshop, Lightroom, and Audition). Would love to work with fun people!</p>
 
